@@ -1,5 +1,5 @@
 <?php
 
-echo 'new repository created now rererere rere e e  er';
+echo 'new repository created now new.';
 
 ?>
