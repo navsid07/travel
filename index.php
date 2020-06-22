@@ -1,5 +1,5 @@
 <?php
 
-echo 'hellooo againn foreee fhdhfhf';
+echo 'Hello file commited by git hub';
 
 ?>
